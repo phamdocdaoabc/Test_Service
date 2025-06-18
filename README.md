@@ -42,3 +42,5 @@ git clone https://github.com/phamdocdaoabc/Test_Service.git
 
 ```sql
 CREATE DATABASE test_service CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+``
+- import file sql: "test_SQL" để tạo table cho database
