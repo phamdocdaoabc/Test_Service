@@ -33,8 +33,7 @@ Hệ thống quản lý người dùng với các chức năng:
 ### 2. Clone repo
 
 ```bash
-git clone https://github.com/your-username/user-management-api.git
-cd user-management-api
+git clone https://github.com/phamdocdaoabc/Test_Service.git
 ```
 
 ### 3. Tạo database
